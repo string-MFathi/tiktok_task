@@ -3,6 +3,7 @@
 A new Flutter simple Design.
 
 # Material Design
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/60022292/92748851-dbad7780-f385-11ea-97f1-8522aed952a0.gif)
 
 
 ## Getting Started
