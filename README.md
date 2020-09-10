@@ -1,6 +1,9 @@
 # tiktok_task
 
-A new Flutter application.
+A new Flutter simple Design.
+
+# Material Design
+
 
 ## Getting Started
 
